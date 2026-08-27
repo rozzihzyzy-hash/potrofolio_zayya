@@ -102,8 +102,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // DAFTAR LAGU
     const playlist = [
-        'music/koda_staying.mp3',
-        'music/blue_yungkai.mp3',
+        'koda_staying.mp3',
+        'blue_yungkai.mp3',
     ];
 
     let queue = [];
